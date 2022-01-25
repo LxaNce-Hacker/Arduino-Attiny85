@@ -1,8 +1,8 @@
-/*===============================================
-Phone_Crack -  4 Digit PIN - Brute Force Attack on Android 
-Smartphones that Supports OTG-Usb  
-    AMH Tech Sl sco
-===============================================*/
+/*===========================================================LxaNCe======================================================
+                              Phone_Crack -  4 Digit PIN - Brute Force Attack on Android 
+                              Smartphones that Supports OTG-Usb  
+                              AMH Tech Sl sco
+=========================================================================================================================*/
 
 #include "DigiKeyboard.h"
 int num[] = {39, 30, 31, 32, 33, 34, 35, 36, 37, 38};
