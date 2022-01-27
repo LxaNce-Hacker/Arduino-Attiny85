@@ -6,7 +6,7 @@ As the name suggests it grabs stored wifi passwords on windows and send their pl
 **1.** Wi-Fi_Key_grab.ino:<br>
 Starts cmd in a small window in order to grabs less attention
 
-**2.** Wi-Fi_Key-grab_Minimize-of-Shame.ino:<br>
+**2.** Wi-Fi_Key_grab_Minimize-of-Shame.ino:<br>
 Starts cmd in a small window but also hides the cmd by scrolling it down the screen method defined in hak5darren's rubberducky wiki [Payload hide cmd window](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload---hide-cmd-window)
 
 ### Tested on:
